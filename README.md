@@ -1,0 +1,2 @@
+# uzbek.uz
+test
